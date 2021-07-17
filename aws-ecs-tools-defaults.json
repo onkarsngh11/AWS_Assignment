@@ -1,0 +1,9 @@
+
+{
+    "region" : "us-east-2",
+    "profile" : "onkar_aws",
+    "configuration" : "Release",
+    "tag"           : "nikewebapplinux:latest",
+    "docker-build-working-dir" : "",
+    "vstoolkit-deployment-mode" : "PushOnly"
+}
